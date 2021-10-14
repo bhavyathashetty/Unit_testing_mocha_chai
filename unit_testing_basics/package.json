@@ -1,0 +1,17 @@
+{
+  "name": "javascript_unit_tesing_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main_test.js",
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
